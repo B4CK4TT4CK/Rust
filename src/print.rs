@@ -6,7 +6,7 @@ pub fn run(){
 
     // formatting 
     println!("{} is from {}", "Frey", "New Delhi");
-    
+
     // Positional Arguments
     println!("{0} is from {1} and {0} likes to {2}",
              "Pinchu", "India", "Code");
@@ -23,6 +23,7 @@ pub fn run(){
 
     // Baic Math
     println!("{} + {}", 12+12, 42-32);
+    println!("the sum of 2 + 2 is {}", 2+2);
 
 }
 
